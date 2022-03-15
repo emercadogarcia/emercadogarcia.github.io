@@ -160,3 +160,7 @@ footer section {
 .right li a {
     color: whitesmoke;
 }
+.right-metatag {
+    opacity: 0;
+    /* color:   rgba(5, 7, 1, 0.774); */
+}
