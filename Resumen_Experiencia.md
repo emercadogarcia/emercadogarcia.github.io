@@ -9,3 +9,14 @@
 💡 Mi enfoque va más allá de la tecnología. Siempre busco entender las necesidades empresariales profundamente para alinear mis soluciones con los objetivos más amplios. Mi objetivo constante es brindar insights accionables y facilitar la toma de decisiones informadas.
 
 🌐 Puedes explorar más sobre mi trayectoria y proyectos en mi página web: https://emercadogarcia.github.io/
+
+
+## SECCIONES 
+1. Titulo
+2. Objetivo profesional / Sobre mi / Resumen
+3. Skills / Competencias / Habilitades
+4. Experiencia
+5. Fromacion
+6. Escolaridad
+7. Hobbies
+8. Datos de contacto. 
